@@ -1,6 +1,6 @@
 # Stakehouse Protocol Smart Contract Deployments
 
-The Stakehouse Protocol is deployed on the `Goerli` test network.
+The Stakehouse Protocol is deployed on the `Ethereum` mainnet and `Goerli` test network.
 
 Below you can find the contracts and their addresses per network.
 
@@ -22,6 +22,26 @@ Programmatically, the addresses can also be fetched for any network where the sm
   }
 }
 ```
+
+## Mainnet Deployment
+
+Static addresses
+
+| Contract | Address |
+| -------- | -------- |
+| StakeHouseUniverse     |  0xC6306C52ea0405D3630249f202751aE3043056bd    |
+| AccountManager     |  0xDd6E67942a9566A70446f7400a21240C5f71377C    |
+| TransactionRouter     |    0x03F4310bfE3968934bC11DfA17B8DF809D7DEA80  |
+| SLOTRegistry     |   0xC01DC3c7F83B12CFdF6C0AAa09c880EB45c48569   |
+| savETHRegistry     |   0x88E6c7072B867F9546a232548a5D3271986B3C0c   |
+| savETHTransactionRouter     |   0x9CbC2Bf747510731eE3A38bf209a299261038369   |
+| savETHBatchRouter     |   0x1D1f35aA28Ac454DA4b11b89971F5F8E6B207d37   |
+| dETH     |   0x3d1E5Cf16077F349e999d6b21A4f646e83Cd90c5   |
+| savETH     |   0x00ee7ea7ca2b5cc47908f0cad1f296efbde1402e   |
+| DepositContract     |  0x00000000219ab540356cbb839cbe05303d7705fa    |
+| WithdrawalCredentials     |  0x010000000000000000000000dd6e67942a9566a70446f7400a21240c5f71377c    |
+
+Subgraph API endpoint: `https://api.thegraph.com/subgraphs/name/stakehouse-dev/stakehouse-protocol`
 
 ## Goerli Deployment
 
