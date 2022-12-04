@@ -1,4 +1,6 @@
-# Stakehouse Protocol Smart Contract Deployments
+# Contract Deployment Addresses
+
+## Stakehouse Protocol Smart Contract Deployments
 
 The Stakehouse Protocol is deployed on the `Ethereum` mainnet and `Goerli` test network.
 
@@ -23,7 +25,7 @@ Programmatically, the addresses can also be fetched for any network where the sm
 }
 ```
 
-## Mainnet Deployment
+### Mainnet Deployment
 
 Static addresses
 
@@ -43,7 +45,7 @@ Static addresses
 
 Subgraph API endpoint: `https://api.thegraph.com/subgraphs/name/stakehouse-dev/stakehouse-protocol`
 
-## Goerli Deployment
+### Goerli Deployment
 
 Static addresses
 
@@ -62,3 +64,21 @@ Static addresses
 | WithdrawalCredentials     |  0x010000000000000000000000952295078a226bf40c8cb076c16e0e7229f77b28    |
 
 Subgraph API endpoint: `https://api.thegraph.com/subgraphs/name/bswap-eng/stakehouse-protocol`
+
+## Liquid Staking Derivative (LSD) Network Contract Deployments
+
+The LSDN is deployed on the `Goerli` test network.
+
+Below you can find the contracts and their addresses per network.
+
+### Goerli Deployment
+
+Static addresses
+
+| Contract | Address |
+| -------- | -------- |
+| LSDN Factory     |  0x8D739170C868f4E4aC0F51F7fD203927ab45Ff13    |
+| Giant Protected Staking Pool     |  0xb0AD9Da3b4962D94386FdeaE32340a0A8E58f8d1    |
+| Giant Fees and MEV Pool     |    0x611beA2dB2BA155C04FE47723D91A3Dc0f52Fbe1  |
+
+Subgraph API endpoint: `https://thegraph.com/hosted-service/subgraph/stakehouse-dev/lsd`
