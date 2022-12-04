@@ -43,7 +43,7 @@ Static addresses
 | DepositContract     |  0x00000000219ab540356cbb839cbe05303d7705fa    |
 | WithdrawalCredentials     |  0x010000000000000000000000dd6e67942a9566a70446f7400a21240c5f71377c    |
 
-Subgraph API endpoint: `https://api.thegraph.com/subgraphs/name/stakehouse-dev/stakehouse-protocol`
+Subgraph API endpoint: [`https://api.thegraph.com/subgraphs/name/stakehouse-dev/stakehouse-protocol`](https://api.thegraph.com/subgraphs/name/stakehouse-dev/stakehouse-protocol)
 
 ### Goerli Deployment
 
@@ -63,7 +63,7 @@ Static addresses
 | DepositContract     |  0xff50ed3d0ec03ac01d4c79aad74928bff48a7b2b    |
 | WithdrawalCredentials     |  0x010000000000000000000000952295078a226bf40c8cb076c16e0e7229f77b28    |
 
-Subgraph API endpoint: `https://api.thegraph.com/subgraphs/name/bswap-eng/stakehouse-protocol`
+Subgraph API endpoint: [`https://api.thegraph.com/subgraphs/name/bswap-eng/stakehouse-protocol`](https://api.thegraph.com/subgraphs/name/bswap-eng/stakehouse-protocol)
 
 ## Liquid Staking Derivative (LSD) Network Contract Deployments
 
@@ -81,4 +81,4 @@ Static addresses
 | Giant Protected Staking Pool     |  0xb0AD9Da3b4962D94386FdeaE32340a0A8E58f8d1    |
 | Giant Fees and MEV Pool     |    0x611beA2dB2BA155C04FE47723D91A3Dc0f52Fbe1  |
 
-Subgraph API endpoint: `https://thegraph.com/hosted-service/subgraph/stakehouse-dev/lsd`
+Subgraph API endpoint: [`https://api.thegraph.com/hosted-service/subgraph/stakehouse-dev/lsd`](https://api.thegraph.com/hosted-service/subgraph/stakehouse-dev/lsd)
