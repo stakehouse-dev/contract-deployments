@@ -71,7 +71,7 @@ The LSDN is deployed on the `Goerli` test network.
 
 Below you can find the contracts and their addresses per network.
 
-### Goerli Deployment
+### v1 Goerli Deployment
 
 Static addresses
 
@@ -82,3 +82,16 @@ Static addresses
 | Giant Fees and MEV Pool     |    0x611beA2dB2BA155C04FE47723D91A3Dc0f52Fbe1  |
 
 Subgraph API endpoint: [`https://api.thegraph.com/hosted-service/subgraph/stakehouse-dev/lsd`](https://api.thegraph.com/hosted-service/subgraph/stakehouse-dev/lsd)
+
+
+### v2 Goerli Deployment
+
+Static addresses
+
+| Contract | Address |
+| -------- | -------- |
+| LSDN Factory     |  0xE9482A9B8f3eA7400D4b07c798287d94B036Be5C    |
+| Giant Protected Staking Pool     |  0xf498849ea5cAEdf73CF9198C5A2EF9db62443809    |
+| Giant Fees and MEV Pool     |    0x7d8381AfBadA9Ab3eC16De3F17aD0e3A2AF58b79  |
+
+Subgraph API endpoint: [`https://api.thegraph.com/subgraphs/name/bsn-eng/liquid-staking-derivative`](https://api.thegraph.com/subgraphs/name/bsn-eng/liquid-staking-derivative)
