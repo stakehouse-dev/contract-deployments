@@ -67,9 +67,19 @@ Subgraph API endpoint: [`https://api.thegraph.com/subgraphs/name/bswap-eng/stake
 
 ## Liquid Staking Derivative (LSD) Network Contract Deployments
 
-The LSDN is deployed on the `Goerli` test network.
+The LSDN is deployed on `Mainnet` and `Goerli` networks.
 
 Below you can find the contracts and their addresses per network.
+
+### Mainnet Deployment
+
+| Contract | Address |
+| -------- | -------- |
+| LSDN Factory     |  0x6EDd4DDa4F879541A67366bca844b2D78cC3850A    |
+| Giant Protected Staking Pool     |  0xF5D92B01c478273bD13aA8efb130D98e131ecBB9    |
+| Giant Fees and MEV Pool     |    0x04e5c93f4b96D2fdB2cDE4c9826C373e5656796E  |
+
+Subgraph API endpoint: [`https://api.thegraph.com/hosted-service/subgraph/stakehouse-dev/lsd`](https://api.thegraph.com/hosted-service/subgraph/stakehouse-dev/lsd)
 
 ### v1 Goerli Deployment
 
