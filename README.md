@@ -42,7 +42,6 @@ Static addresses
 | savETH     |   0x00ee7ea7ca2b5cc47908f0cad1f296efbde1402e   |
 | DepositContract     |  0x00000000219ab540356cbb839cbe05303d7705fa    |
 | WithdrawalCredentials     |  0x010000000000000000000000dd6e67942a9566a70446f7400a21240c5f71377c    |
-| SafeBox | 0x8035a7Ab484D57A5a82469e0D6a38b2c942afBef |
 
 Subgraph API endpoint: [`https://api.thegraph.com/subgraphs/name/stakehouse-dev/stakehouse-protocol`](https://api.thegraph.com/subgraphs/name/stakehouse-dev/stakehouse-protocol)
 
@@ -63,9 +62,39 @@ Static addresses
 | savETH     |   0x6bc3266716df5881a9856491ab93303f725a3047   |
 | DepositContract     |  0xff50ed3d0ec03ac01d4c79aad74928bff48a7b2b    |
 | WithdrawalCredentials     |  0x010000000000000000000000952295078a226bf40c8cb076c16e0e7229f77b28    |
-| SafeBox | 0xfd989ff9133bd5bb8c20b5b707296272a9fa2fbc |
 
 Subgraph API endpoint: [`https://api.thegraph.com/subgraphs/name/bswap-eng/stakehouse-protocol`](https://api.thegraph.com/subgraphs/name/bswap-eng/stakehouse-protocol)
+
+## Common Interest Protocol Smart Contract Deployments
+
+The following query can be executed to fetch addresses using the corresponding Subgraph API endpoint:
+```
+{
+  cipGlobalValues {
+    SafeBox
+  }
+}
+```
+
+### Mainnet Deployment
+
+Static addresses
+
+| Contract | Address |
+| -------- | -------- |
+| SafeBox | 0x8035a7Ab484D57A5a82469e0D6a38b2c942afBef |
+
+Subgraph API endpoint: [`https://api.thegraph.com/subgraphs/name/stakehouse-dev/common-interest-protocol`](https://api.thegraph.com/subgraphs/name/stakehouse-dev/common-interest-protocol)
+
+### Goerli Deployment
+
+Static addresses
+
+| Contract | Address |
+| -------- | -------- |
+| SafeBox | 0xfd989ff9133bd5bb8c20b5b707296272a9fa2fbc |
+
+Subgraph API endpoint: [`https://api.thegraph.com/subgraphs/name/bsn-eng/common-interest-protocol`](https://api.thegraph.com/subgraphs/name/bsn-eng/common-interest-protocol)
 
 ## Liquid Staking Derivative (LSD) Network Contract Deployments
 
