@@ -65,6 +65,35 @@ Static addresses
 
 Subgraph API endpoint: [`https://api.thegraph.com/subgraphs/name/bswap-eng/stakehouse-protocol`](https://api.thegraph.com/subgraphs/name/bswap-eng/stakehouse-protocol)
 
+## Community & Brand Central Smart Contract Deployments
+
+Community & Brand Central is deployed on the `Ethereum` mainnet network and is a standalone NFT smart contract suite driven by registry data from validator registrations within the Stakehouse protocol.
+
+Below you can find the contracts and their addresses per network.
+
+Programmatically, the addresses can also be fetched for any network where the smart contracts are deployed if you have the appropriate Subgraph API endpoint. With the API endpoint, the following query can be executed:
+```
+{
+  brandCentralGlobals {
+    BrandNFT
+    BrandCentral
+    skLoot
+    skLootFactory
+  }
+}
+```
+
+### Mainnet Deployment
+
+| Contract | Address |
+| -------- | -------- |
+| Brand NFT | 0x53975f264a02eb415602a780af632bc132a20ca7 |
+| Community Central | 0xcf74685c9865e959329b846a7785c2e126b67f03 |
+| Loot Factory | 0x1eb1046949e7e1235495dfd672ab3bb71091984d |
+| Loot NFT | 0x2a86d26ea4779c3046023eb76b4ae2c9e07abfff |
+
+Subgraph API endpoint: [`https://api.thegraph.com/subgraphs/name/stakehouse-dev/stakehouse-protocol`](https://api.thegraph.com/subgraphs/name/stakehouse-dev/stakehouse-protocol)
+
 ## Common Interest Protocol Smart Contract Deployments
 
 The following query can be executed to fetch addresses using the corresponding Subgraph API endpoint:
