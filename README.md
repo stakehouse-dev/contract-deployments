@@ -170,7 +170,7 @@ Subgraph API endpoint: [`https://api.thegraph.com/subgraphs/name/bsn-eng/liquid-
 | Contract | Address |
 | -------- | -------- |
 | dETH Vault | 0x3564A47E2f1b8450f50b51a023A8427Ae7B62Eb7 |
-| kETHVault | 0x509c0a85e5e23bAB829B441Ed5390452dEf827e4 |
-| kETHStrategy | 0x952a868c89b38F6a15A0de38d80f77e225f4cfe7 |
+| kETH Vault | 0x509c0a85e5e23bAB829B441Ed5390452dEf827e4 |
+| kETH Strategy | 0x952a868c89b38F6a15A0de38d80f77e225f4cfe7 |
 | Test BSN | 0x35F75C280964BCA465623f5F34B10373553E7609 |
 | BSN Farming | 0xc861fde48246a4b78c90a0d2b9d4907873a3100a |
