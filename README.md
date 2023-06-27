@@ -135,7 +135,7 @@ Below you can find the contracts and their addresses per network.
 
 | Contract | Address |
 | -------- | -------- |
-| LSDN Factory     |  0x6EDd4DDa4F879541A67366bca844b2D78cC3850A    |
+| LSD Factory     |  0x6EDd4DDa4F879541A67366bca844b2D78cC3850A    |
 | Giant Protected Staking Pool     |  0xF5D92B01c478273bD13aA8efb130D98e131ecBB9    |
 | Giant Fees and MEV Pool     |    0x04e5c93f4b96D2fdB2cDE4c9826C373e5656796E  |
 
@@ -146,7 +146,7 @@ Static addresses
 
 | Contract | Address |
 | -------- | -------- |
-| LSDN Factory     |  0x8D739170C868f4E4aC0F51F7fD203927ab45Ff13    |
+| LSD Factory     |  0x8D739170C868f4E4aC0F51F7fD203927ab45Ff13    |
 | Giant Protected Staking Pool     |  0xb0AD9Da3b4962D94386FdeaE32340a0A8E58f8d1    |
 | Giant Fees and MEV Pool     |    0x611beA2dB2BA155C04FE47723D91A3Dc0f52Fbe1  |
 
@@ -159,7 +159,7 @@ Static addresses
 
 | Contract | Address |
 | -------- | -------- |
-| LSDN Factory     |  0xE9482A9B8f3eA7400D4b07c798287d94B036Be5C    |
+| LSD Factory     |  0xE9482A9B8f3eA7400D4b07c798287d94B036Be5C    |
 | Giant Protected Staking Pool     |  0x7e30089243E412291e9e5b981F9018Ca40e84eED    |
 | Giant Fees and MEV Pool     |    0xf3D21065A25bebd2357288978fe0e3083736E2bC  |
 
