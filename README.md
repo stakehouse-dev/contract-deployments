@@ -160,7 +160,7 @@ Static addresses
 | Contract | Address |
 | -------- | -------- |
 | LSDN Factory     |  0xE9482A9B8f3eA7400D4b07c798287d94B036Be5C    |
-| Giant Protected Staking Pool     |  0xf498849ea5cAEdf73CF9198C5A2EF9db62443809    |
-| Giant Fees and MEV Pool     |    0x7d8381AfBadA9Ab3eC16De3F17aD0e3A2AF58b79  |
+| Giant Protected Staking Pool     |  0x7e30089243E412291e9e5b981F9018Ca40e84eED    |
+| Giant Fees and MEV Pool     |    0xf3D21065A25bebd2357288978fe0e3083736E2bC  |
 
 Subgraph API endpoint: [`https://api.thegraph.com/subgraphs/name/bsn-eng/liquid-staking-derivative`](https://api.thegraph.com/subgraphs/name/bsn-eng/liquid-staking-derivative)
