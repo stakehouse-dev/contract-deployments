@@ -25,6 +25,13 @@ Programmatically, the addresses can also be fetched for any network where the sm
 }
 ```
 
+### Contract Utilities
+
+Smart contract ABIs can be found in this NPM package:
+```
+https://www.npmjs.com/package/@blockswaplab/stakehouse-protocol-abis
+```
+
 ### Mainnet Deployment
 
 Static addresses
