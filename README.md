@@ -32,6 +32,16 @@ Smart contract ABIs can be found in this NPM package:
 https://www.npmjs.com/package/@blockswaplab/stakehouse-protocol-abis
 ```
 
+Solidity interfaces here:
+```
+https://www.npmjs.com/package/@blockswaplab/stakehouse-contract-interfaces
+```
+
+Solidity API wired up to the contracts and with auto network switching:
+```
+https://www.npmjs.com/package/@blockswaplab/stakehouse-solidity-api
+```
+
 ### Mainnet Deployment
 
 Static addresses
