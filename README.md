@@ -182,8 +182,8 @@ Static addresses
 
 Subgraph API endpoint: [`https://api.thegraph.com/subgraphs/name/bsn-eng/liquid-staking-derivative`](https://api.thegraph.com/subgraphs/name/bsn-eng/liquid-staking-derivative)
 
-## kETH Deployment (https://dapp.getketh.com/)
-### Mainnet Information 
+## kETH Deployment 
+### Mainnet Information (https://dapp.getketh.com/)
 
 | Contract | Address |
 | -------- | -------- |
@@ -193,7 +193,7 @@ Subgraph API endpoint: [`https://api.thegraph.com/subgraphs/name/bsn-eng/liquid-
 | BSN | 0x534D1F5E617e0f72A6b06a04Aa599839AF776A5e |
 | BSN Farming | 0x5CeCfAf8f8c2983A3336adbe836aF39192a72895 |
 
-### Goerli Information 
+### Goerli Information (https://goerli.getketh.com/)
 
 | Contract | Address |
 | -------- | -------- |
