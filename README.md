@@ -59,6 +59,8 @@ Static addresses
 | savETH     |   0x00ee7ea7ca2b5cc47908f0cad1f296efbde1402e   |
 | DepositContract     |  0x00000000219ab540356cbb839cbe05303d7705fa    |
 | WithdrawalCredentials     |  0x010000000000000000000000dd6e67942a9566a70446f7400a21240c5f71377c    |
+| Withdrawals and Sweep Reporter | 0x64f4fCFb8377DEaABF334eD42aC113E6813a55d0 |
+| Full withdrawals | 0x8F6839b0AcD8d7c7d2f01C1C7ECCa982Ca354333 |
 
 Subgraph API endpoint: [`https://api.thegraph.com/subgraphs/name/stakehouse-dev/stakehouse-protocol`](https://api.thegraph.com/subgraphs/name/stakehouse-dev/stakehouse-protocol)
 
@@ -79,6 +81,8 @@ Static addresses
 | savETH     |   0x6bc3266716df5881a9856491ab93303f725a3047   |
 | DepositContract     |  0xff50ed3d0ec03ac01d4c79aad74928bff48a7b2b    |
 | WithdrawalCredentials     |  0x010000000000000000000000952295078a226bf40c8cb076c16e0e7229f77b28    |
+| Withdrawals and Sweep Reporter | 0xF0be479a19a5553fC736E7208879b9019B07DE85 |
+| Full withdrawals | 0x4aCB708eb8Def5D66Ff8Da7EE4796C4B3EDb44A4 |
 
 Subgraph API endpoint: [`https://api.thegraph.com/subgraphs/name/bswap-eng/stakehouse-protocol`](https://api.thegraph.com/subgraphs/name/bswap-eng/stakehouse-protocol)
 
