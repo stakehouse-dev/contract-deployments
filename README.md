@@ -86,6 +86,25 @@ Static addresses
 
 Subgraph API endpoint: [`https://api.thegraph.com/subgraphs/name/bswap-eng/stakehouse-protocol`](https://api.thegraph.com/subgraphs/name/bswap-eng/stakehouse-protocol)
 
+### Holesky Deployment
+
+Static addresses
+
+| Contract | Address |
+| -------- | -------- |
+| StakeHouseUniverse     |   0xC24cD71d357af96F7D697617D73545ED38b1cb2d   |
+| AccountManager     |   0xD214240B8c61A278c76a1741D6af46021b56fbcB   |
+| TransactionRouter     |   0x370fcbeFB4a81438f97f58BBeE53B27C8b1e99A3   |
+| SLOTRegistry     |   0xB766d4203Ff8895D39CE3367181dc7586e5c39e1   |
+| savETHRegistry     |    0xFD66453e82AC14a6611bB96EcFf1B9b4910391d9  |
+| savETHTransactionRouter     |   0x59D003Ef2700cc5458589e775CDc61cda98BA342   |
+| savETHBatchRouter     |   0xD6d58b06eb52e78C6f8EcbD86E9AC475D2BfE47c   |
+| dETH     |   0x4Bfc9573a96B883c477EeD548b5fCC30C5Dfeb82   |
+| DepositContract     |   0x4242424242424242424242424242424242424242   |
+| WithdrawalCredentials     |  0x010000000000000000000000D214240B8c61A278c76a1741D6af46021b56fbcB    |
+| Withdrawals and Sweep Reporter | 0x58B2A7795faBA1BE745d23a90EaDa7D22eC591BC |
+| Full withdrawals | 0x5C29Fd0c9f6BCd0a459DcDEF0BE2F8A7DcD3933E |
+
 ## Community & Brand Central Smart Contract Deployments
 
 Community & Brand Central is deployed on the `Ethereum` mainnet network and is a standalone NFT smart contract suite driven by registry data from validator registrations within the Stakehouse protocol.
