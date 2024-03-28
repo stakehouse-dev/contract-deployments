@@ -2,7 +2,7 @@
 
 ## Stakehouse Protocol Smart Contract Deployments
 
-The Stakehouse Protocol is deployed on the `Ethereum` mainnet and `Goerli` test network.
+The Stakehouse Protocol is deployed on the `Ethereum` mainnet as well as the `Holesky` and `Goerli` test networks.
 
 Below you can find the contracts and their addresses per network.
 
@@ -179,21 +179,7 @@ Below you can find the contracts and their addresses per network.
 | Giant Protected Staking Pool     |  0xF5D92B01c478273bD13aA8efb130D98e131ecBB9    |
 | Giant Fees and MEV Pool     |    0x04e5c93f4b96D2fdB2cDE4c9826C373e5656796E  |
 
-
-### v1 Goerli Deployment
-
-Static addresses
-
-| Contract | Address |
-| -------- | -------- |
-| LSD Factory     |  0x8D739170C868f4E4aC0F51F7fD203927ab45Ff13    |
-| Giant Protected Staking Pool     |  0xb0AD9Da3b4962D94386FdeaE32340a0A8E58f8d1    |
-| Giant Fees and MEV Pool     |    0x611beA2dB2BA155C04FE47723D91A3Dc0f52Fbe1  |
-
-Subgraph API endpoint: [`https://api.thegraph.com/hosted-service/subgraph/stakehouse-dev/lsd`](https://api.thegraph.com/hosted-service/subgraph/stakehouse-dev/lsd)
-
-
-### v2 Goerli Deployment
+### V2 Goerli Deployment
 
 Static addresses
 
@@ -204,6 +190,16 @@ Static addresses
 | Giant Fees and MEV Pool     |    0xf3D21065A25bebd2357288978fe0e3083736E2bC  |
 
 Subgraph API endpoint: [`https://api.thegraph.com/subgraphs/name/bsn-eng/liquid-staking-derivative`](https://api.thegraph.com/subgraphs/name/bsn-eng/liquid-staking-derivative)
+
+### Holesky Deployment
+
+Static addresses
+
+| Contract | Address |
+| -------- | -------- |
+| LSD Factory     |    0xa38042b7109bb777E6dE177C065e98465039b81c  |
+| Giant Protected Staking Pool     |   0x01eFEC3E88604a87bE4dfAa6E9Dac7699b2829d1   |
+| Giant Fees and MEV Pool     |   0xdC1837DA5D8E5A4C332B871820C43f594Aa0D2a5   |
 
 ## kETH Deployment 
 ### Mainnet Information (https://dapp.getketh.com/)
@@ -225,3 +221,10 @@ Subgraph API endpoint: [`https://api.thegraph.com/subgraphs/name/bsn-eng/liquid-
 | kETH Strategy | 0x952a868c89b38F6a15A0de38d80f77e225f4cfe7 |
 | Test BSN | 0x35F75C280964BCA465623f5F34B10373553E7609 |
 | BSN Farming | 0xc861fde48246a4b78c90a0d2b9d4907873a3100a |
+
+## Holesky Information 
+
+| Contract | Address |
+| -------- | -------- |
+| kETH Vault | 0x161C4718cDA5aF236Cee2215C69f69D5D8fB32f4 |
+| kETH Strategy | 0xa503508450a21a82f2031D38D7C4Ac786B41Adf8 |
